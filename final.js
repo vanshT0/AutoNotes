@@ -1,7 +1,7 @@
 
 const puppeteer = require('puppeteer');
 
-const id = "yikov44296@zevars.com";
+const id = "rafec39157@goqoez.com";
 const pass = "12345678";
 
 // ============================================= ARRAY OF SUBJECTS IN 6th SEM ========================================
